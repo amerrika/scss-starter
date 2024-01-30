@@ -14,9 +14,9 @@ Also, this way I keep learning about CSS3 and exploring some modern CSS3 techniq
 
 ## Resources and Useful Links
 
-[Kevin Powell YT - Generate custom props & utility classes with Sass](https://www.youtube.com/watch?v=gP8yFWCTr7Q)
-[Kevin Powell YT - Get your stylesheets more organized with Sass partials](https://www.youtube.com/watch?v=9Ld-aOKsEDk)
-[Kevin Powell YT - How I build a website from scratch](https://www.youtube.com/watch?v=IGVWLd3P8ig)
+- [Kevin Powell YT - Generate custom props & utility classes with Sass](https://www.youtube.com/watch?v=gP8yFWCTr7Q)
+- [Kevin Powell YT - Get your stylesheets more organized with Sass partials](https://www.youtube.com/watch?v=9Ld-aOKsEDk)
+- [Kevin Powell YT - How I build a website from scratch](https://www.youtube.com/watch?v=IGVWLd3P8ig)
 
 - https://github.com/kevin-powell/website-starter-template-v3.git
 - https://matthewjamestaylor.com/responsive-padding
