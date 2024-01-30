@@ -1,0 +1,28 @@
+@use "../abstracts/" as *;
+
+.paddings-fluid {
+  div {
+    background-color: $neutral-200;
+    min-height: 100px;
+  }
+
+  li {
+    min-height: 100px;
+
+    &.pb-900 {
+      background-color: #4ffbdf;
+    }
+    &.pb-800 {
+      background-color: #00d2fc;
+    }
+    &.pb-700 {
+      background-color: #009efa;
+    }
+    &.pb-300 {
+      background-color: #845ec2;
+    }
+    &.pb-200 {
+      background-color: #6e4aac;
+    }
+  }
+}
